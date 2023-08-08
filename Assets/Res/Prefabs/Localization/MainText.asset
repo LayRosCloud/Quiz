@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31a5f3fea974625875fcbaa5997f320, type: 3}
+  m_Name: MainText
+  m_EditorClassIdentifier: 
+  _ru: "\u041A\u0430\u043A\u0430\u044F \u0442\u044B \u0441\u043E\u0431\u0430\u043A\u0430
+    \u0441 <color=yellow>\u0431\u0430\u0431\u043E\u0447\u043A\u043E\u0439</color>
+    \u043D\u0430 \u043D\u043E\u0441\u0443"
+  _en: What kind of dog are you with a <color=yellow>butterfly</color> on your nose

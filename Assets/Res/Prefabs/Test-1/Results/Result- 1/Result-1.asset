@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8a126e2b28467193b063b95701c00e, type: 3}
+  m_Name: Result-1
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 97106c0d92f30dc408df796ccb0e7949, type: 3}
+  _title: {fileID: 11400000, guid: 6e9e7a491b81af14086eea031f474888, type: 2}
+  _description: {fileID: 11400000, guid: 58a52bf10181dd54eb1a31a4768c6050, type: 2}
+  _balls: 10
